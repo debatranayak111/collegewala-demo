@@ -1,4 +1,4 @@
 # collegewala-demo
 1st git practice
 <br>
-author debatra
+author:-> Debatra Nayak
